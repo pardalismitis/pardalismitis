@@ -4,7 +4,6 @@
 - Coordenador do [Felinos da Cantareira](http://www.felinosdacantareira.com.br)
 - Produtor e apresentador do [DesAbraçando Árvores](https://www.desabrace.com.br)
 - Pesquisador no [LEEC - Laboratório de Ecologia Espacial e Conservação](https://leec.eco.br/)
--  
 <!--
 **pardalismitis/pardalismitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
