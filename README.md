@@ -3,7 +3,7 @@
 
 - 🐆 Coordenador do [Felinos da Cantareira](http://www.felinosdacantareira.com.br)
 - 🎙 Produtor e apresentador do [DesAbraçando Árvores](https://www.desabrace.com.br)
-- 🤠 Pesquisador no [LEEC - Laboratório de Ecologia Espacial e Conservação](https://leec.eco.br/)
+- 🤠 Pós-doc do [LEEC - Laboratório de Ecologia Espacial e Conservação](https://leec.eco.br/)
 - 🤯 R, ecologia e conservação
 
 ### Academics:
