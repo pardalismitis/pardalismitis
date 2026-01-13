@@ -1,9 +1,7 @@
 ### Howdy, eu sou Fernando Lima 🖖🏻
 
-
-- 🐆 Coordenador do [Felinos da Cantareira](http://www.felinosdacantareira.com.br)
-- 🎙 Produtor e apresentador do [DesAbraçando Árvores](https://www.desabrace.com.br)
 - 🤠 Analista Ambiental da [Coordenação de Análises Geoespaciais para Conservação de Espécies COESP/CGCON/DIBIO/ICMBio](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/plano-de-reducao-de-impactos-sobre-a-biodiversidade)
+- 🎙 Produtor e apresentador do [DesAbraçando Árvores](https://www.desabrace.com.br)
 - 🤯 R, ecologia e conservação
 
 ### Academics:
