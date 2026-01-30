@@ -16,10 +16,6 @@
 [<img align="left" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png"/>](https://www.facebook.com/desabrace)
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>](https://www.instagram.com/desabrace/)
 <br>
-<div>
-  <a href="https://github.com/pardalismitis">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pardalismitis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <div>
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardalismitis&layout=compact&langs_count=16&theme=dark"/>
 
